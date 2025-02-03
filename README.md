@@ -1,6 +1,6 @@
 👋 Hi, I’m Rae!
 - 👀 I’m interested in data science, NLP, and other online research methods.
-- 🌱 I’m currently preparing statistical analyses on the top 100 steam games played.
+- 🌱 I’m currently working on `SteamStats`
 - 💞️ I’m looking to get internships in the Summer of 2025.
 
 <!---
